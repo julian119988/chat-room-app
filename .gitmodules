@@ -4,4 +4,4 @@
 
 [submodule "server"] 
   path = server
-  url = git://github.com/julian119988/chat-room-app
+  url = https://github.com/julian119988/chat-room-server
